@@ -1,0 +1,8 @@
+Koch Fractal Summary
+Number of sides: 4
+Side length: 6.0
+Depth: 9
+Segments: 1048576
+Segment length at depth: 0.00030483158055174517
+Approx perimeter: 319.63907940862674
+Points written: 1048577
